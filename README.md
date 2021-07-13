@@ -4,7 +4,8 @@ This project is a 3D model in widget system made with Unreal Engine blueprint, w
 # Download now the final result of the project.
 A playable form of the project for you to test it and enjoy it! \
 Let's go: https://drive.google.com/file/d/18aX143wTeHCJzJAPhYqwq64mU5jdjHF6/view?usp=sharing
-![](https://github.com/KaykyDeSouzaDias/3D_Model_In_Widget-Unreal-Blueprint/blob/main/Images%20%26%20GIFs/Gameplay_GIF.gif)
+
+![](https://github.com/KaykyDeSouzaDias/3D_Model_In_Widget-Unreal-Blueprint/blob/main/Images%20%26%20GIFs/3DModelInWidgetGIF.gif)
 
 # Reference
 
